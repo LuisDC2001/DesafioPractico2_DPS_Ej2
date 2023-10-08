@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "empleados",
+    "slug": "empleados",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "empleados"
+}
